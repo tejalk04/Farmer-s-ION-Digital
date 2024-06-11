@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fde7bdcc.css",
+    "main.js": "/static/js/main.4b2399cc.js",
+    "static/media/farm1.jpg": "/static/media/farm1.7af35efee71dc6dc4e7c.jpg",
+    "static/media/UBImage.png": "/static/media/UBImage.de647fa1080a9c84eaf3.png",
+    "static/media/decoImg.png": "/static/media/decoImg.4c4dcc3d3fd0b126c9ef.png",
+    "static/media/prediction.png": "/static/media/prediction.4154ce79797c88ddc8b7.png",
+    "static/media/mycropImg.png": "/static/media/mycropImg.685f98aa536603f6fd5e.png",
+    "static/media/reg.png": "/static/media/reg.be39ef9d7b054d19ab98.png",
+    "static/media/log1.png": "/static/media/log1.68f959628e3b3ab4869a.png",
+    "static/media/regbook.png": "/static/media/regbook.31ab4634d4a08149ed5b.png",
+    "static/media/logbg.jpg": "/static/media/logbg.4b388ce24ae3a86be23d.jpg",
+    "static/media/userPic.jfif": "/static/media/userPic.0b37c7c4ae2e6e4d89fd.jfif",
+    "static/media/loc.png": "/static/media/loc.cdafd819107fc18b313f.png",
+    "static/media/mycrop.png": "/static/media/mycrop.dfc11e5706f167ff424b.png",
+    "static/media/farm.jpg": "/static/media/farm.24547301bd9bdab9ed9f.jpg",
+    "static/media/market.png": "/static/media/market.53971d2d38c45cd784fd.png",
+    "static/media/farmlogo1.jpg": "/static/media/farmlogo1.f5f75dfdea74cc0fe527.jpg",
+    "static/media/weather.png": "/static/media/weather.62db6bccda4681ff5420.png",
+    "static/media/forecast.png": "/static/media/forecast.4d91a7cdcc0ac006bea3.png",
+    "static/media/company.png": "/static/media/company.9ec598ad3936eccaafc3.png",
+    "index.html": "/index.html",
+    "main.fde7bdcc.css.map": "/static/css/main.fde7bdcc.css.map",
+    "main.4b2399cc.js.map": "/static/js/main.4b2399cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fde7bdcc.css",
+    "static/js/main.4b2399cc.js"
+  ]
+}
